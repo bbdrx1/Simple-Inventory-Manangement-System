@@ -38,7 +38,3 @@ This is a simple inventory management system developed in C# that allows you to 
    - Calculate the total value of the inventory
    - Exit the program
 
-## Example Usage
-
-Upon running the program, you will see the following options displayed in the console:
-
